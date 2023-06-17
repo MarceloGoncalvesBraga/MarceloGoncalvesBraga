@@ -20,11 +20,10 @@
 
 ## 🛠️ Technologies and Tools I use:
 
-<style>
   .img{
     border-radius: 10px;
   }
-</style>
+
 <p>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" class="img" height="32px"/>
 <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="32px" style="border-radius: 10px;"/>
