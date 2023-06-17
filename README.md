@@ -21,7 +21,7 @@
 ## 🛠️ Technologies and Tools I use:
 
 <p>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="32px" border-radius="7px"/>
+<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" height="32px" style="border-radius: 10px;"/>
 <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
 <img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
  <img alt="Mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" height="25px"/>
