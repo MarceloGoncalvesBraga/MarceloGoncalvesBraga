@@ -2,7 +2,8 @@
 
 ## 👨🏻‍💻 About Me:
 
-- 🙋‍♂️ All about me is at **[My Website]("https://meepage.com.br")**
+- 🙋‍♂️ All about me is at <a href="https://meepage.com.br/" target="_blank">**[My Website]**</a>
+
 
 - 🔭 I’m currently working on `Something Intresting`.
 
